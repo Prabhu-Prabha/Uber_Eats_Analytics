@@ -23,7 +23,7 @@ The project demonstrates the complete data lifecycle:
 
 ---
 
-🧹 Data Cleaning
+🧹 Data Cleaning (Uber_Eats_Bangalore.ipynb)
 - Removed duplicate records
 - Handled missing and inconsistent ratings
 - Converted categorical columns into numerical values
@@ -32,7 +32,7 @@ The project demonstrates the complete data lifecycle:
 
 ---
 
- 🗄 Database Design
+ 🗄 Database Design (Project_I.ipynb)
 - MySQL database: **project_i**
 - Tables:
   - `uber_explore` – restaurant-level information
@@ -40,7 +40,7 @@ The project demonstrates the complete data lifecycle:
 
 ---
 
- 📊 Streamlit Dashboard Features
+ 📊 Streamlit Dashboard Features (Uber_Eats_Explore.py)
 
  🔹 Tab 1: Interactive Dashboard
 - Dynamic filters:
