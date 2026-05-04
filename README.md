@@ -1,8 +1,7 @@
- Uber_Eats_Analytics
-End-to-end Data Analytics project using Python, MySQL &amp; Streamlit
- Uber Eats Data Analytics & Streamlit Dashboard
+#Uber_Eats_Analytics
+End-to-end Data Analytics project using Python, MySQL Xampp, Streamlit
 
- Project Overview
+ #Project Overview
 This project is an end-to-end **Data Analytics & Business Intelligence Dashboard** built using **Python, MySQL, and Streamlit**.  
 It analyzes restaurant and order data inspired by Uber Eats to uncover business insights through **SQL-driven analytics** and an **interactive web dashboard**.
 
